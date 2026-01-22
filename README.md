@@ -29,17 +29,14 @@ This confirms traffic distribution across AZs.
 
 ## Screenshots
 
-### Application Load Balancer DNS
-![ALB DNS](screenshots/alb-dns-working.png)
-
 ### Response from eu-west-2a
-![AZ A](screenshots/az-a-response.png)
+![AZ A](screenshots/az-a-response.PNG)
 
 ### Response from eu-west-2b
-![AZ B](screenshots/az-b-response.png)
+![AZ B](screenshots/az-b-response.PNG)
 
 ### Target Group Health Checks
-![Target Group](screenshots/target-group-healthy.png)
+![Target Group](screenshots/target-group-healthy.PNG)
 
 ---
 
