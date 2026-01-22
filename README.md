@@ -52,6 +52,15 @@ This confirms traffic distribution across AZs.
 
 ---
 
+## Key Outcomes
+
+- Implemented a highly available web architecture using an Application Load Balancer
+- Verified traffic distribution across multiple Availability Zones
+- Configured and validated ALB target group health checks
+- Deployed and managed EC2 instances running Apache on Amazon Linux
+  
+---
+
 ## Cost Management
 
 All EC2 instances and the Application Load Balancer were terminated after completing the project to avoid unnecessary charges.
