@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Environment files (in case added later)
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
