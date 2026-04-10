@@ -12,7 +12,7 @@ This project demonstrates how to deploy multiple EC2 instances across different 
 - Apache HTTP Server running on each EC2 instance
 
 ### Architecture
-![AZ A](screenshots/aws-alb-ec2-multi-az-architecture.png)
+![AZ A](screenshots/aws-alb-ec2-multi-az-architecture.PNG)
 
 Each EC2 instance serves a unique response to identify its Availability Zone.
 
